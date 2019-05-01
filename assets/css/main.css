@@ -1995,6 +1995,12 @@ input, select, textarea {
 				font-size: 1em;
 			}
 
+   /* Some broken garbage. */
+			.attribution {
+			  font-size: 0.3em;
+				opacity: .7;
+			}
+
 /* Icons */
 
 	.icon {
